@@ -6,5 +6,5 @@ Comandos git:
 
 git add . (adicionar ao git)
 git commit -m (comitar com msg)
-git push origin main ( enviar para o github)
+git push origin main  ( enviar para o github)
 git status ( verificar os status ) 
