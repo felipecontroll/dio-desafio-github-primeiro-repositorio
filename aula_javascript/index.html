@@ -5,12 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style.css" />
-    <script src="assets/js/script.js"></script>
-    <title>Curso JavaScript</title>
+    
+    <title>Contador</title>
     
 </head>
 <body>
     <h1>Olá, Mundo!</h1>
-    
+    <p>Este é o meu primeiro projeto JavaScript.</p>
+    <div id="counter">
+        <button class="bt" name="subtrair" onclick="decrement()" >-</button>
+        <span id="currentNumber">0</span>
+        <button class="bt" name="adicionar" onclick="increment()">+</button>
+     
+        
+    </div>
+
+    <h2 class="todolist"> To-do list</h2>
+    <div id="list">
+       <form id="task-form">
+            <input id="task-input" name="tarefa" type="text" placeholder="Digite aqui a sua tarefa">
+            <button class="btn-list" type="submit">Adicionar</button>
+            
+            
+        </form> 
+        <div id="tasks"></div>
+
+    </div>
+    <script src="assets/js/script.js">  </script>
 </body>
 </html>
