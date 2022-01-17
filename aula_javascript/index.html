@@ -11,11 +11,16 @@
 <body>
     <h1>Olá, Mundo!</h1>
     <p>Este é o meu primeiro projeto JavaScript.</p>
-    <div id="counter">
+    <main>
+        <h1 id="page-title">Light Mode ON</h1>
+        <button aria-label="selecionar-modo" id="mode-selector">Dark Mode</button>
+    </main>
+
+       <div id="counter">
         <button class="bt" name="subtrair" onclick="decrement()" >-</button>
         <span id="currentNumber">0</span>
-        <button class="bt" name="adicionar" onclick="increment()">+</button>
-    </div>
+        <button class="bt" name="adicionar"  onclick="increment()">+</button>
+    </div
     <h2 class="todolist"> To-do list</h2>
     <div id="list">
        <form id="task-form">

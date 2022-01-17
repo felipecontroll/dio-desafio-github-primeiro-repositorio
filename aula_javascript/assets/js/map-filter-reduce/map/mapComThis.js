@@ -17,3 +17,4 @@ function mapArray(){
 }
 
 console.log(mapArray());
+
