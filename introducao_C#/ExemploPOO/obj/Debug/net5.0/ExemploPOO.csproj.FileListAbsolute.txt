@@ -1,0 +1,16 @@
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.exe
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.deps.json
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.runtimeconfig.json
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.runtimeconfig.dev.json
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\bin\Debug\net5.0\ref\ExemploPOO.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.pdb
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.csproj.AssemblyReference.cache
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.AssemblyInfo.cs
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\obj\Debug\net5.0\ref\ExemploPOO.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.pdb
+D:\workspace\dio-desafio-github-primeiro-repositorio\introducao_C#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.genruntimeconfig.cache
