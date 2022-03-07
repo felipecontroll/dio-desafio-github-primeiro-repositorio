@@ -1,0 +1,16 @@
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\workspace\dio-desafio-github-primeiro-repositorio\Cadastro_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
