@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\dio-desafio-github-primeiro-repositorio\\introducao_C#\\ExemploPOO\\ExemploPOO.csproj": {}
+    "d:\\workspace\\dio-desafio-github-primeiro-repositorio\\introducao_C#\\ExemploPOO\\ExemploPOO.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\dio-desafio-github-primeiro-repositorio\\introducao_C#\\ExemploPOO\\ExemploPOO.csproj": {
+    "d:\\workspace\\dio-desafio-github-primeiro-repositorio\\introducao_C#\\ExemploPOO\\ExemploPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\dio-desafio-github-primeiro-repositorio\\introducao_C#\\ExemploPOO\\ExemploPOO.csproj",
+        "projectUniqueName": "d:\\workspace\\dio-desafio-github-primeiro-repositorio\\introducao_C#\\ExemploPOO\\ExemploPOO.csproj",
         "projectName": "ExemploPOO",
-        "projectPath": "D:\\workspace\\dio-desafio-github-primeiro-repositorio\\introducao_C#\\ExemploPOO\\ExemploPOO.csproj",
+        "projectPath": "d:\\workspace\\dio-desafio-github-primeiro-repositorio\\introducao_C#\\ExemploPOO\\ExemploPOO.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\dio-desafio-github-primeiro-repositorio\\introducao_C#\\ExemploPOO\\obj\\",
+        "outputPath": "d:\\workspace\\dio-desafio-github-primeiro-repositorio\\introducao_C#\\ExemploPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
